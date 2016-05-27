@@ -1,0 +1,29 @@
+name: MesocycloneStudios
+favicon: null
+layout_spectrum: 0.6760888979770243
+typography_spectrum: 0.0620062006637454
+title: Mesocyclone Studios
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9821910078171641
+  lightness: 0.6815988291054964
+  saturation: 0.4253293068613857
+  rhythmicContrast: 0.7699758510570973
+purpose: []
